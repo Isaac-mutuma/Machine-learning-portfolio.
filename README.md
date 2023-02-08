@@ -18,11 +18,11 @@ Conclusion
 In conclusion, this project has shown the effectiveness of using logistic regression for predicting customer insurance/churn based on customer information and history. The results of this analysis can be used by the bank to develop strategies for retaining customers and preventing them from leaving.
 
 Libraries used
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+numpy,
+pandas,
+matplotlib,
+seaborn,
+scikit-learn.
 
 Files included
 churn_analysis.ipynb and insurance.ipynb: Jupyter notebook containing the code for data preprocessing, EDA, and logistic regression model development and evaluation.
@@ -31,11 +31,11 @@ README.md: This file, which provides an overview of the project.
 
 Requirements
 The following libraries are required to run the code in churn_analysis.ipynb:
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+numpy.
+pandas.
+matplotlib.
+seaborn.
+scikit-learn.
 
 
 Usage
